@@ -1,0 +1,4 @@
+WorkShopDescriptor{Description='Povesti creative', Domain='lectura', Room=25, StartHour='08:30', Time=50}
+WorkShopDescriptor{Description='Pian', Domain='muzica', Room=12, StartHour='11:00', Time=60}
+WorkShopDescriptor{Description='Poezie', Domain='lectura', Room=25, StartHour='12:15', Time=30}
+WorkShopDescriptor{Description='Instrumente neconventionale', Domain='muzica', Room=12, StartHour='13:00', Time=90}

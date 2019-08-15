@@ -1,0 +1,3 @@
+WorkShopDescriptor{Description='Pictura pe sticla', Domain='pictura', Room=4, StartHour='10:15', Time=40}
+WorkShopDescriptor{Description='Instrumente neconventionale', Domain='muzica', Room=12, StartHour='13:00', Time=90}
+WorkShopDescriptor{Description='Imprimare', Domain='pictura', Room=4, StartHour='15:00', Time=30}
